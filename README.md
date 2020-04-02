@@ -114,7 +114,7 @@ fun makeErrorToasta() {
 
 ```
 
-### run Btn 
+### Run Btn Toasta 
 ```
  fun btnView() {
         button.setOnClickListener {
