@@ -42,6 +42,9 @@ A Beautiful CustomToasta in Android using Kotlin.
 # Sample Code for - CustomToasta 🌟 
 
 ### 1- Info Toasta  
+<img src="https://github.com/Ahmedomarpro/CustomToasta/blob/master/app/src/main/res/Screenshots/Screenshot_20200402-103317.png" width="210px" />
+
+
 ```
  fun makeInfoToast() {
         makeToast(this, "This is an Info Toast Message").show()
@@ -52,6 +55,9 @@ A Beautiful CustomToasta in Android using Kotlin.
 
 ```
 ### 2. Success Toasta   
+<img src="https://github.com/Ahmedomarpro/CustomToasta/blob/master/app/src/main/res/Screenshots/Screenshot_20200402-103329.png" width="210px" />
+
+
 ```
 fun makeSuccessToasta() {
         makeToast(
@@ -66,6 +72,9 @@ fun makeSuccessToasta() {
 
 ```
 ### 3. Warning Toasta
+<img src="https://github.com/Ahmedomarpro/CustomToasta/blob/master/app/src/main/res/Screenshots/Screenshot_20200402-103334.png" width="210px" />
+
+
 ```
  fun makeWarningToasta() {
         Toasta.makeToast(
@@ -80,6 +89,9 @@ fun makeSuccessToasta() {
 
 ```
 ### 4. Error Toasta
+<img src="https://github.com/Ahmedomarpro/CustomToasta/blob/master/app/src/main/res/Screenshots/Screenshot_20200402-103348.png" width="210px" />
+
+
 ```
 fun makeErrorToasta() {
         makeToast(
@@ -92,6 +104,9 @@ fun makeErrorToasta() {
     
 ```
 ### 5. Basic Toasta 
+<img src="https://github.com/Ahmedomarpro/CustomToasta/blob/master/app/src/main/res/Screenshots/Screenshot_20200402-103353.png" width="210px" />
+
+
 ```
    fun makeToastabasic() {
         Toast.makeText(this, "This is an Basic Toast Message", Toast.LENGTH_SHORT).show()
@@ -124,5 +139,4 @@ fun makeErrorToasta() {
 
 
 ```
-
 
